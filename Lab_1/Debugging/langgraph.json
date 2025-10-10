@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "llm_model": "./Agentic_AI.py:agent"
+    },
+    "env": "../.env"
+}
